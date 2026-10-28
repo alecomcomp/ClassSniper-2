@@ -406,12 +406,12 @@
 
   // ---------- access key ----------
   function getKey() {
-    return localStorage.getItem('cs_key') || '';
+    return localStorage.getItem('cs_key_2') || '';
   }
 
   function setKey(key) {
-    if (key) localStorage.setItem('cs_key', key);
-    else localStorage.removeItem('cs_key');
+    if (key) localStorage.setItem('cs_key_2', key);
+    else localStorage.removeItem('cs_key_2');
   }
 
   // ---------- reads: straight from the public repo, no credential ----------
