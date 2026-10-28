@@ -1,12 +1,12 @@
 name: Gym Logic Engine
 on:
-  schedule:
+
     # 5 minutes is GitHub's shortest supported interval — schedule triggers are
     # "best effort" and can still lag under load, so this only shrinks the worst
     # case gap, it doesn't guarantee precise timing. The script itself sleeps to
     # the exact strike moment once a run does start (see gym_script.py), so this
     # setting mainly matters for how late a run can start in the first place.
-    - cron: '2-59/5 * * * *'
+
   # The external cron POSTs here every 60s. It used to be able to arm a booking
   # by passing a date and time; that path wrote pending_booking.json into the
   # repo, which is exactly what stopped being a thing the repo holds. Arming goes
