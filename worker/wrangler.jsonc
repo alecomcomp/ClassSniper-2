@@ -27,7 +27,7 @@
     // Two entries because Pages serves from the custom domain and 301s the
     // github.io URL to it — a browser sent from the latter still ends up with the
     // former as its origin, but both are the dashboard.
-    "ALLOWED_ORIGINS": "https://classsniper.sidharthjoly.com,https://sidharthjoly.github.io"
+    "ALLOWED_ORIGINS": "https://alecomcomp.github.io",
   },
 
   // Where the personal state lives now: what you booked, what's queued, your
@@ -38,8 +38,8 @@
   "d1_databases": [
     {
       "binding": "STATE_DB",
-      "database_name": "classsniper-state",
-      "database_id": "15cc1c68-8fd4-46db-8cdd-b95284d64b4b"
+      "database_name": "classsniper-state-2",
+      "database_id": "f222b9fd-3b8d-44ed-9c5a-0581f8c7e1d8"
     }
   ],
 
