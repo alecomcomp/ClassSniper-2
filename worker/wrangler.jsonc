@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "classsniper-api",
+  "name": "classsniper-api-2",
   "main": "src/index.ts",
   // Pinned to what the test runtime's bundled workerd supports, rather than today,
   // so tests and production run on the same compatibility date instead of a newer
@@ -20,8 +20,8 @@
   // that made an external cron necessary in the first place. The end user never
   // sees it either way, so moving it would trade strike timing for nothing.
   "vars": {
-    "GITHUB_OWNER": "SidharthJoly",
-    "GITHUB_REPO": "ClassSniper",
+    "GITHUB_OWNER": "alecomcomp",
+    "GITHUB_REPO": "ClassSniper-2",
     "GITHUB_BRANCH": "main",
     // Only the dashboard may call this. Anything else gets no CORS headers back.
     // Two entries because Pages serves from the custom domain and 301s the
