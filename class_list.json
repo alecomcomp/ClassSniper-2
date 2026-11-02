@@ -77,17 +77,6 @@
     "capacity": 8
   },
   {
-    "booking_id": "104book37800",
-    "date": "2026-11-04",
-    "time": "12:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Egan",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book73358",
     "date": "2026-11-04",
     "time": "12:00 PM",
@@ -198,17 +187,6 @@
     "capacity": 15
   },
   {
-    "booking_id": "104book36823",
-    "date": "2026-11-04",
-    "time": "12:30 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 32
-  },
-  {
     "booking_id": "107book103790",
     "date": "2026-11-04",
     "time": "12:30 PM",
@@ -229,17 +207,6 @@
     "location": "Merrylands",
     "remaining_spots": 14,
     "capacity": 22
-  },
-  {
-    "booking_id": "104book37592",
-    "date": "2026-11-04",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Egan",
-    "location": "Newtown",
-    "remaining_spots": 5,
-    "capacity": 20
   },
   {
     "booking_id": "101book103467",
@@ -341,17 +308,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "104book37748",
-    "date": "2026-11-04",
-    "time": "2:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Alison Bruton",
-    "location": "Newtown",
-    "remaining_spots": 17,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book41305",
     "date": "2026-11-04",
     "time": "2:30 PM",
@@ -372,17 +328,6 @@
     "location": "Marrickville",
     "remaining_spots": 4,
     "capacity": 15
-  },
-  {
-    "booking_id": "104book38008",
-    "date": "2026-11-04",
-    "time": "3:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Alison Bruton",
-    "location": "Newtown",
-    "remaining_spots": 10,
-    "capacity": 20
   },
   {
     "booking_id": "103book55939",
@@ -459,17 +404,6 @@
     "instructor": "Ahlex Leyva",
     "location": "Marrickville",
     "remaining_spots": 14,
-    "capacity": 20
-  },
-  {
-    "booking_id": "104book38216",
-    "date": "2026-11-04",
-    "time": "4:00 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Robynne Henry",
-    "location": "Newtown",
-    "remaining_spots": 12,
     "capacity": 20
   },
   {
@@ -603,28 +537,6 @@
     "location": "Merrylands",
     "remaining_spots": 28,
     "capacity": 33
-  },
-  {
-    "booking_id": "104book36155",
-    "date": "2026-11-04",
-    "time": "5:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Lily Cole",
-    "location": "Newtown",
-    "remaining_spots": 10,
-    "capacity": 23
-  },
-  {
-    "booking_id": "104book38112",
-    "date": "2026-11-04",
-    "time": "5:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Robynne Henry",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
   },
   {
     "booking_id": "107book63801",
@@ -781,17 +693,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "104book36561",
-    "date": "2026-11-04",
-    "time": "5:30 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 21,
-    "capacity": 32
-  },
-  {
     "booking_id": "107book42373",
     "date": "2026-11-04",
     "time": "5:30 PM",
@@ -889,28 +790,6 @@
     "location": "Merrylands",
     "remaining_spots": 16,
     "capacity": 21
-  },
-  {
-    "booking_id": "104book38164",
-    "date": "2026-11-04",
-    "time": "6:00 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Robynne Henry",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "104book36617",
-    "date": "2026-11-04",
-    "time": "6:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Lily Cole",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 23
   },
   {
     "booking_id": "107book49174",
@@ -1067,17 +946,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "104book36876",
-    "date": "2026-11-04",
-    "time": "6:30 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 19,
-    "capacity": 32
-  },
-  {
     "booking_id": "107book104730",
     "date": "2026-11-04",
     "time": "6:30 PM",
@@ -1164,28 +1032,6 @@
     "location": "Merrylands",
     "remaining_spots": 23,
     "capacity": 33
-  },
-  {
-    "booking_id": "104book37644",
-    "date": "2026-11-04",
-    "time": "7:00 PM",
-    "name": "Breathwork: Deep Calm (Evening)",
-    "class_type": "Harmony Series",
-    "instructor": "Daniel Augustine",
-    "location": "Newtown",
-    "remaining_spots": 5,
-    "capacity": 20
-  },
-  {
-    "booking_id": "104book38060",
-    "date": "2026-11-04",
-    "time": "7:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Robynne Henry",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
   },
   {
     "booking_id": "105book59896",
@@ -1441,28 +1287,6 @@
     "capacity": 22
   },
   {
-    "booking_id": "104book51112",
-    "date": "2026-11-05",
-    "time": "6:00 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
-    "booking_id": "104book38636",
-    "date": "2026-11-05",
-    "time": "6:00 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jack Bowen",
-    "location": "Newtown",
-    "remaining_spots": 15,
-    "capacity": 32
-  },
-  {
     "booking_id": "107book117101",
     "date": "2026-11-05",
     "time": "6:00 AM",
@@ -1606,17 +1430,6 @@
     "capacity": 22
   },
   {
-    "booking_id": "104book39636",
-    "date": "2026-11-05",
-    "time": "6:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Leah Ferguson",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 23
-  },
-  {
     "booking_id": "107book42569",
     "date": "2026-11-05",
     "time": "6:30 AM",
@@ -1736,28 +1549,6 @@
     "location": "Merrylands",
     "remaining_spots": 30,
     "capacity": 33
-  },
-  {
-    "booking_id": "104book38371",
-    "date": "2026-11-05",
-    "time": "7:00 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jack Bowen",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 32
-  },
-  {
-    "booking_id": "104book50868",
-    "date": "2026-11-05",
-    "time": "7:00 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
   },
   {
     "booking_id": "107book117263",
@@ -1903,17 +1694,6 @@
     "capacity": 22
   },
   {
-    "booking_id": "104book38692",
-    "date": "2026-11-05",
-    "time": "7:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Leah Ferguson",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 23
-  },
-  {
     "booking_id": "107book105410",
     "date": "2026-11-05",
     "time": "7:30 AM",
@@ -2000,17 +1780,6 @@
     "location": "Merrylands",
     "remaining_spots": 19,
     "capacity": 22
-  },
-  {
-    "booking_id": "104book39480",
-    "date": "2026-11-05",
-    "time": "8:00 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Newtown",
-    "remaining_spots": 8,
-    "capacity": 20
   },
   {
     "booking_id": "107book75276",
@@ -2189,17 +1958,6 @@
     "capacity": 8
   },
   {
-    "booking_id": "104book39064",
-    "date": "2026-11-05",
-    "time": "9:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Newtown",
-    "remaining_spots": 10,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book57017",
     "date": "2026-11-05",
     "time": "9:15 AM",
@@ -2253,17 +2011,6 @@
     "location": "Marrickville",
     "remaining_spots": 20,
     "capacity": 26
-  },
-  {
-    "booking_id": "104book38481",
-    "date": "2026-11-05",
-    "time": "9:30 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Tess Williams",
-    "location": "Newtown",
-    "remaining_spots": 19,
-    "capacity": 23
   },
   {
     "booking_id": "101book68685",
@@ -2376,17 +2123,6 @@
     "capacity": 4
   },
   {
-    "booking_id": "104book39324",
-    "date": "2026-11-05",
-    "time": "10:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 3,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book75038",
     "date": "2026-11-05",
     "time": "10:15 AM",
@@ -2418,17 +2154,6 @@
     "location": "Surry Hills",
     "remaining_spots": 12,
     "capacity": 20
-  },
-  {
-    "booking_id": "104book38533",
-    "date": "2026-11-05",
-    "time": "10:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Tess Williams",
-    "location": "Newtown",
-    "remaining_spots": 14,
-    "capacity": 23
   },
   {
     "booking_id": "107book105515",
@@ -2506,17 +2231,6 @@
     "location": "Merrylands",
     "remaining_spots": 8,
     "capacity": 8
-  },
-  {
-    "booking_id": "104book39116",
-    "date": "2026-11-05",
-    "time": "11:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 13,
-    "capacity": 20
   },
   {
     "booking_id": "107book64148",
@@ -2695,17 +2409,6 @@
     "capacity": 22
   },
   {
-    "booking_id": "104book39272",
-    "date": "2026-11-05",
-    "time": "12:00 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 8,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book64256",
     "date": "2026-11-05",
     "time": "12:00 PM",
@@ -2805,17 +2508,6 @@
     "capacity": 15
   },
   {
-    "booking_id": "104book38741",
-    "date": "2026-11-05",
-    "time": "12:30 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jack Bowen",
-    "location": "Newtown",
-    "remaining_spots": 31,
-    "capacity": 32
-  },
-  {
     "booking_id": "107book106055",
     "date": "2026-11-05",
     "time": "12:30 PM",
@@ -2836,17 +2528,6 @@
     "location": "Merrylands",
     "remaining_spots": 20,
     "capacity": 22
-  },
-  {
-    "booking_id": "104book39012",
-    "date": "2026-11-05",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 16,
-    "capacity": 20
   },
   {
     "booking_id": "107book65946",
@@ -2937,17 +2618,6 @@
     "capacity": 22
   },
   {
-    "booking_id": "104book39376",
-    "date": "2026-11-05",
-    "time": "2:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 16,
-    "capacity": 20
-  },
-  {
     "booking_id": "101book68898",
     "date": "2026-11-05",
     "time": "2:15 PM",
@@ -2979,17 +2649,6 @@
     "location": "Marrickville",
     "remaining_spots": 14,
     "capacity": 15
-  },
-  {
-    "booking_id": "104book39168",
-    "date": "2026-11-05",
-    "time": "3:00 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 18,
-    "capacity": 20
   },
   {
     "booking_id": "103book56753",
@@ -3047,17 +2706,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "104book39220",
-    "date": "2026-11-05",
-    "time": "4:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 8,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book41982",
     "date": "2026-11-05",
     "time": "4:10 PM",
@@ -3067,17 +2715,6 @@
     "location": "Haymarket",
     "remaining_spots": 31,
     "capacity": 38
-  },
-  {
-    "booking_id": "104book64573",
-    "date": "2026-11-05",
-    "time": "4:15 PM",
-    "name": "Barre Signature",
-    "class_type": "Barre Series",
-    "instructor": "Anton Anton",
-    "location": "Newtown",
-    "remaining_spots": 14,
-    "capacity": 23
   },
   {
     "booking_id": "101book68032",
@@ -3212,17 +2849,6 @@
     "capacity": 33
   },
   {
-    "booking_id": "104book39428",
-    "date": "2026-11-05",
-    "time": "5:00 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Newtown",
-    "remaining_spots": 6,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book117377",
     "date": "2026-11-05",
     "time": "5:00 PM",
@@ -3265,17 +2891,6 @@
     "location": "Merrylands",
     "remaining_spots": 17,
     "capacity": 21
-  },
-  {
-    "booking_id": "104book64865",
-    "date": "2026-11-05",
-    "time": "5:15 PM",
-    "name": "Ritual",
-    "class_type": "Mat Series",
-    "instructor": "Anton Anton",
-    "location": "Newtown",
-    "remaining_spots": 16,
-    "capacity": 20
   },
   {
     "booking_id": "107book65735",
@@ -3353,17 +2968,6 @@
     "location": "Merrylands",
     "remaining_spots": 28,
     "capacity": 30
-  },
-  {
-    "booking_id": "104book58249",
-    "date": "2026-11-05",
-    "time": "5:30 PM",
-    "name": "Calisthenics",
-    "class_type": "S&C Series",
-    "instructor": "Nathan Newman",
-    "location": "Newtown",
-    "remaining_spots": 25,
-    "capacity": 28
   },
   {
     "booking_id": "107book43815",
@@ -3520,17 +3124,6 @@
     "capacity": 21
   },
   {
-    "booking_id": "104book38908",
-    "date": "2026-11-05",
-    "time": "6:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book64200",
     "date": "2026-11-05",
     "time": "6:00 PM",
@@ -3551,17 +3144,6 @@
     "location": "Haymarket",
     "remaining_spots": 0,
     "capacity": 35
-  },
-  {
-    "booking_id": "104book55161",
-    "date": "2026-11-05",
-    "time": "6:15 PM",
-    "name": "YogaBeats",
-    "class_type": "Yoga Series",
-    "instructor": "Alicia Quinn",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 23
   },
   {
     "booking_id": "107book65578",
@@ -3650,17 +3232,6 @@
     "location": "Merrylands",
     "remaining_spots": 21,
     "capacity": 23
-  },
-  {
-    "booking_id": "104book30810",
-    "date": "2026-11-05",
-    "time": "6:30 PM",
-    "name": "Calisthenics",
-    "class_type": "S&C Series",
-    "instructor": "Nathan Newman",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 28
   },
   {
     "booking_id": "107book114567",
@@ -3784,17 +3355,6 @@
     "capacity": 33
   },
   {
-    "booking_id": "104book38960",
-    "date": "2026-11-05",
-    "time": "7:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Newtown",
-    "remaining_spots": 0,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book63536",
     "date": "2026-11-05",
     "time": "7:00 PM",
@@ -3815,17 +3375,6 @@
     "location": "Merrylands",
     "remaining_spots": 23,
     "capacity": 23
-  },
-  {
-    "booking_id": "104book55061",
-    "date": "2026-11-05",
-    "time": "7:15 PM",
-    "name": "Burlesque",
-    "class_type": "Dance Series",
-    "instructor": "Alicia Quinn",
-    "location": "Newtown",
-    "remaining_spots": 15,
-    "capacity": 20
   },
   {
     "booking_id": "107book66053",
@@ -3903,17 +3452,6 @@
     "location": "Merrylands",
     "remaining_spots": 16,
     "capacity": 20
-  },
-  {
-    "booking_id": "104book38582",
-    "date": "2026-11-05",
-    "time": "7:30 PM",
-    "name": "Mobility",
-    "class_type": "Mat Series",
-    "instructor": "Nathan Newman",
-    "location": "Newtown",
-    "remaining_spots": 18,
-    "capacity": 24
   },
   {
     "booking_id": "107book106535",
@@ -4059,28 +3597,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "104book40051",
-    "date": "2026-11-06",
-    "time": "6:00 AM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 28
-  },
-  {
-    "booking_id": "104book60249",
-    "date": "2026-11-06",
-    "time": "6:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Melissa Passe-De Silva",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book114859",
     "date": "2026-11-06",
     "time": "6:00 AM",
@@ -4202,17 +3718,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "104book39792",
-    "date": "2026-11-06",
-    "time": "6:30 AM",
-    "name": "BodyBurn",
-    "class_type": "Mat Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
     "booking_id": "107book106265",
     "date": "2026-11-06",
     "time": "6:30 AM",
@@ -4321,28 +3826,6 @@
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
-  },
-  {
-    "booking_id": "104book40314",
-    "date": "2026-11-06",
-    "time": "7:00 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Newtown",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
-    "booking_id": "104book51758",
-    "date": "2026-11-06",
-    "time": "7:00 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Melissa Passe-De Silva",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "107book114950",
@@ -4488,17 +3971,6 @@
     "capacity": 22
   },
   {
-    "booking_id": "104book39896",
-    "date": "2026-11-06",
-    "time": "7:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
     "booking_id": "107book109953",
     "date": "2026-11-06",
     "time": "7:30 AM",
@@ -4585,28 +4057,6 @@
     "location": "Merrylands",
     "remaining_spots": 34,
     "capacity": 34
-  },
-  {
-    "booking_id": "104book60343",
-    "date": "2026-11-06",
-    "time": "8:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Melissa Passe-De Silva",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
-    "booking_id": "104book39945",
-    "date": "2026-11-06",
-    "time": "8:00 AM",
-    "name": "Badass",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 28
   },
   {
     "booking_id": "107book52830",
@@ -4807,17 +4257,6 @@
     "capacity": 22
   },
   {
-    "booking_id": "104book40474",
-    "date": "2026-11-06",
-    "time": "9:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Egan",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "101book97297",
     "date": "2026-11-06",
     "time": "9:15 AM",
@@ -4972,17 +4411,6 @@
     "capacity": 22
   },
   {
-    "booking_id": "104book40942",
-    "date": "2026-11-06",
-    "time": "10:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Egan",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "101book97132",
     "date": "2026-11-06",
     "time": "10:15 AM",
@@ -5093,17 +4521,6 @@
     "capacity": 4
   },
   {
-    "booking_id": "104book40838",
-    "date": "2026-11-06",
-    "time": "11:00 AM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Egan",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book48706",
     "date": "2026-11-06",
     "time": "11:15 AM",
@@ -5157,17 +4574,6 @@
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
-  },
-  {
-    "booking_id": "104book39844",
-    "date": "2026-11-06",
-    "time": "11:30 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Franks",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
   },
   {
     "booking_id": "107book107180",
@@ -5256,17 +4662,6 @@
     "location": "Merrylands",
     "remaining_spots": 4,
     "capacity": 4
-  },
-  {
-    "booking_id": "104book40370",
-    "date": "2026-11-06",
-    "time": "12:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Egan",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "107book73420",
@@ -5368,28 +4763,6 @@
     "capacity": 15
   },
   {
-    "booking_id": "104book53070",
-    "date": "2026-11-06",
-    "time": "12:30 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Franks",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
-    "booking_id": "104book40209",
-    "date": "2026-11-06",
-    "time": "12:30 PM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 28
-  },
-  {
     "booking_id": "107book107285",
     "date": "2026-11-06",
     "time": "12:30 PM",
@@ -5421,17 +4794,6 @@
     "location": "Merrylands",
     "remaining_spots": 21,
     "capacity": 21
-  },
-  {
-    "booking_id": "104book40890",
-    "date": "2026-11-06",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Egan",
-    "location": "Newtown",
-    "remaining_spots": 19,
-    "capacity": 20
   },
   {
     "booking_id": "101book49246",
@@ -5555,17 +4917,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "104book40578",
-    "date": "2026-11-06",
-    "time": "3:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Aly Turska",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book59655",
     "date": "2026-11-06",
     "time": "3:30 PM",
@@ -5619,28 +4970,6 @@
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
-  },
-  {
-    "booking_id": "104book39740",
-    "date": "2026-11-06",
-    "time": "4:00 PM",
-    "name": "Power Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
-    "booking_id": "104book40734",
-    "date": "2026-11-06",
-    "time": "4:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Aly Turska",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "103book58326",
@@ -5740,28 +5069,6 @@
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
-  },
-  {
-    "booking_id": "104book40160",
-    "date": "2026-11-06",
-    "time": "5:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
-    "booking_id": "104book40630",
-    "date": "2026-11-06",
-    "time": "5:00 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Aly Turska",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "103book60650",
@@ -6083,17 +5390,6 @@
     "capacity": 33
   },
   {
-    "booking_id": "104book42015",
-    "date": "2026-11-07",
-    "time": "7:00 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Nikki Erdos",
-    "location": "Newtown",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
     "booking_id": "107book53727",
     "date": "2026-11-07",
     "time": "7:00 AM",
@@ -6314,28 +5610,6 @@
     "capacity": 21
   },
   {
-    "booking_id": "104book41962",
-    "date": "2026-11-07",
-    "time": "8:00 AM",
-    "name": "Hour of Power",
-    "class_type": "S&C Series",
-    "instructor": "Nikki Erdos",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 28
-  },
-  {
-    "booking_id": "104book42488",
-    "date": "2026-11-07",
-    "time": "8:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Aly Turska",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book116628",
     "date": "2026-11-07",
     "time": "8:00 AM",
@@ -6444,17 +5718,6 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
-  },
-  {
-    "booking_id": "104book41590",
-    "date": "2026-11-07",
-    "time": "8:30 AM",
-    "name": "Barre Signature",
-    "class_type": "Barre Series",
-    "instructor": "Kristen Marconi",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
   },
   {
     "booking_id": "107book112966",
@@ -6633,17 +5896,6 @@
     "capacity": 8
   },
   {
-    "booking_id": "104book42280",
-    "date": "2026-11-07",
-    "time": "9:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Aly Turska",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "101book72178",
     "date": "2026-11-07",
     "time": "9:00 AM",
@@ -6675,17 +5927,6 @@
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
-  },
-  {
-    "booking_id": "104book41804",
-    "date": "2026-11-07",
-    "time": "9:15 AM",
-    "name": "Badass",
-    "class_type": "S&C Series",
-    "instructor": "Nikki Erdos",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 28
   },
   {
     "booking_id": "107book68615",
@@ -6752,17 +5993,6 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
-  },
-  {
-    "booking_id": "104book42176",
-    "date": "2026-11-07",
-    "time": "9:30 AM",
-    "name": "BodyBurn",
-    "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
   },
   {
     "booking_id": "107book111960",
@@ -6941,17 +6171,6 @@
     "capacity": 8
   },
   {
-    "booking_id": "104book42540",
-    "date": "2026-11-07",
-    "time": "10:00 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Aly Turska",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book107905",
     "date": "2026-11-07",
     "time": "10:00 AM",
@@ -7018,17 +6237,6 @@
     "capacity": 35
   },
   {
-    "booking_id": "104book41699",
-    "date": "2026-11-07",
-    "time": "10:15 AM",
-    "name": "Gunshow",
-    "class_type": "S&C Series",
-    "instructor": "Nikki Erdos",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 28
-  },
-  {
     "booking_id": "107book53880",
     "date": "2026-11-07",
     "time": "10:15 AM",
@@ -7082,17 +6290,6 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
-  },
-  {
-    "booking_id": "104book42384",
-    "date": "2026-11-07",
-    "time": "10:30 AM",
-    "name": "Ritual",
-    "class_type": "Mat Series",
-    "instructor": "Katie Jay",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "108book212",
@@ -7238,17 +6435,6 @@
     "capacity": 4
   },
   {
-    "booking_id": "104book42332",
-    "date": "2026-11-07",
-    "time": "11:00 AM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Aly Turska",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book116043",
     "date": "2026-11-07",
     "time": "11:00 AM",
@@ -7291,17 +6477,6 @@
     "location": "Zetland",
     "remaining_spots": 30,
     "capacity": 30
-  },
-  {
-    "booking_id": "104book41857",
-    "date": "2026-11-07",
-    "time": "11:15 AM",
-    "name": "Calisthenics",
-    "class_type": "S&C Series",
-    "instructor": "Nathan Newman",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 28
   },
   {
     "booking_id": "101book95592",
@@ -7381,17 +6556,6 @@
     "capacity": 21
   },
   {
-    "booking_id": "104book42071",
-    "date": "2026-11-07",
-    "time": "11:45 AM",
-    "name": "Yoga: Restore",
-    "class_type": "Yoga Series",
-    "instructor": "Katie Jay",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
     "booking_id": "105book75893",
     "date": "2026-11-07",
     "time": "12:00 PM",
@@ -7412,17 +6576,6 @@
     "location": "Merrylands",
     "remaining_spots": 34,
     "capacity": 34
-  },
-  {
-    "booking_id": "104book42228",
-    "date": "2026-11-07",
-    "time": "12:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Aly Turska",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "107book110110",
@@ -7476,17 +6629,6 @@
     "class_type": "Reformer Series",
     "instructor": "Jessie Dyer",
     "location": "Zetland",
-    "remaining_spots": 24,
-    "capacity": 24
-  },
-  {
-    "booking_id": "104book25580",
-    "date": "2026-11-07",
-    "time": "12:15 PM",
-    "name": "Mobility",
-    "class_type": "Mat Series",
-    "instructor": "Nathan Newman",
-    "location": "Newtown",
     "remaining_spots": 24,
     "capacity": 24
   },
@@ -7568,28 +6710,6 @@
     "capacity": 15
   },
   {
-    "booking_id": "104book41913",
-    "date": "2026-11-07",
-    "time": "1:00 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Patterson",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
-    "booking_id": "104book63202",
-    "date": "2026-11-07",
-    "time": "1:00 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Amelia Gartner",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book110306",
     "date": "2026-11-07",
     "time": "1:00 PM",
@@ -7667,17 +6787,6 @@
     "capacity": 15
   },
   {
-    "booking_id": "104book41650",
-    "date": "2026-11-07",
-    "time": "2:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Amelia Gartner",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book107660",
     "date": "2026-11-07",
     "time": "2:00 PM",
@@ -7687,17 +6796,6 @@
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "104book44902",
-    "date": "2026-11-07",
-    "time": "2:15 PM",
-    "name": "Yoga: Restore",
-    "class_type": "Yoga Series",
-    "instructor": "Chanel Leaudais",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
   },
   {
     "booking_id": "101book95463",
@@ -7720,17 +6818,6 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
-  },
-  {
-    "booking_id": "104book36998",
-    "date": "2026-11-07",
-    "time": "3:00 PM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Amelia Gartner",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "107book108115",
@@ -7854,17 +6941,6 @@
     "capacity": 21
   },
   {
-    "booking_id": "104book65529",
-    "date": "2026-11-08",
-    "time": "8:00 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Amber Libert\u00e9",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
     "booking_id": "101book95916",
     "date": "2026-11-08",
     "time": "8:00 AM",
@@ -7909,17 +6985,6 @@
     "capacity": 15
   },
   {
-    "booking_id": "104book43641",
-    "date": "2026-11-08",
-    "time": "8:30 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mia Callander",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book69240",
     "date": "2026-11-08",
     "time": "8:30 AM",
@@ -7962,17 +7027,6 @@
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
-  },
-  {
-    "booking_id": "104book65698",
-    "date": "2026-11-08",
-    "time": "9:00 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Amber Libert\u00e9",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
   },
   {
     "booking_id": "107book55837",
@@ -8096,17 +7150,6 @@
     "capacity": 21
   },
   {
-    "booking_id": "104book43589",
-    "date": "2026-11-08",
-    "time": "9:30 AM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Mia Callander",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book55626",
     "date": "2026-11-08",
     "time": "9:30 AM",
@@ -8138,17 +7181,6 @@
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
-  },
-  {
-    "booking_id": "104book64308",
-    "date": "2026-11-08",
-    "time": "10:00 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Amber Libert\u00e9",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
   },
   {
     "booking_id": "107book56049",
@@ -8294,17 +7326,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "104book43432",
-    "date": "2026-11-08",
-    "time": "10:30 AM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Mia Callander",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book64960",
     "date": "2026-11-08",
     "time": "11:00 AM",
@@ -8358,17 +7379,6 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
-  },
-  {
-    "booking_id": "104book43537",
-    "date": "2026-11-08",
-    "time": "11:30 AM",
-    "name": "Reformer: Origins",
-    "class_type": "Reformer Series",
-    "instructor": "Mia Callander",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "108book315",
@@ -8426,17 +7436,6 @@
     "capacity": 15
   },
   {
-    "booking_id": "104book43745",
-    "date": "2026-11-08",
-    "time": "12:30 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Mia Callander",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "101book74093",
     "date": "2026-11-08",
     "time": "12:30 PM",
@@ -8492,17 +7491,6 @@
     "capacity": 36
   },
   {
-    "booking_id": "104book43849",
-    "date": "2026-11-08",
-    "time": "1:15 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Sunil Tailor",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
     "booking_id": "101book73569",
     "date": "2026-11-08",
     "time": "1:30 PM",
@@ -8523,17 +7511,6 @@
     "location": "North Sydney",
     "remaining_spots": 24,
     "capacity": 24
-  },
-  {
-    "booking_id": "104book44005",
-    "date": "2026-11-08",
-    "time": "2:30 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Sunil Tailor",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
   },
   {
     "booking_id": "105book47253",
@@ -8756,28 +7733,6 @@
     "capacity": 33
   },
   {
-    "booking_id": "104book34867",
-    "date": "2026-11-09",
-    "time": "6:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Lily Cole",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
-    "booking_id": "104book33497",
-    "date": "2026-11-09",
-    "time": "6:00 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
     "booking_id": "107book59603",
     "date": "2026-11-09",
     "time": "6:00 AM",
@@ -8919,17 +7874,6 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
-  },
-  {
-    "booking_id": "104book33922",
-    "date": "2026-11-09",
-    "time": "6:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Sienna Egan",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
   },
   {
     "booking_id": "107book101731",
@@ -9108,28 +8052,6 @@
     "capacity": 33
   },
   {
-    "booking_id": "104book34604",
-    "date": "2026-11-09",
-    "time": "7:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Lily Cole",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
-    "booking_id": "104book33656",
-    "date": "2026-11-09",
-    "time": "7:00 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
     "booking_id": "107book56160",
     "date": "2026-11-09",
     "time": "7:00 AM",
@@ -9260,17 +8182,6 @@
     "location": "Haymarket",
     "remaining_spots": 30,
     "capacity": 30
-  },
-  {
-    "booking_id": "104book34552",
-    "date": "2026-11-09",
-    "time": "7:30 AM",
-    "name": "Bodysculpt",
-    "class_type": "Mat Series",
-    "instructor": "Sienna Egan",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
   },
   {
     "booking_id": "107book112299",
@@ -9405,28 +8316,6 @@
     "capacity": 22
   },
   {
-    "booking_id": "104book33550",
-    "date": "2026-11-09",
-    "time": "8:00 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
-    "booking_id": "104book34396",
-    "date": "2026-11-09",
-    "time": "8:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Lily Cole",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book56108",
     "date": "2026-11-09",
     "time": "8:00 AM",
@@ -9480,17 +8369,6 @@
     "location": "Surry Hills",
     "remaining_spots": 36,
     "capacity": 36
-  },
-  {
-    "booking_id": "104book34709",
-    "date": "2026-11-09",
-    "time": "8:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Sienna Egan",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
   },
   {
     "booking_id": "107book101941",
@@ -9614,17 +8492,6 @@
     "capacity": 21
   },
   {
-    "booking_id": "104book50503",
-    "date": "2026-11-09",
-    "time": "9:00 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "106book38951",
     "date": "2026-11-09",
     "time": "9:15 AM",
@@ -9689,17 +8556,6 @@
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
-  },
-  {
-    "booking_id": "104book33710",
-    "date": "2026-11-09",
-    "time": "9:30 AM",
-    "name": "Barre Signature",
-    "class_type": "Barre Series",
-    "instructor": "Kristen Marconi",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
   },
   {
     "booking_id": "108book365",
@@ -9823,17 +8679,6 @@
     "capacity": 33
   },
   {
-    "booking_id": "104book45894",
-    "date": "2026-11-09",
-    "time": "10:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "101book100607",
     "date": "2026-11-09",
     "time": "10:15 AM",
@@ -9854,17 +8699,6 @@
     "location": "Marrickville",
     "remaining_spots": 26,
     "capacity": 26
-  },
-  {
-    "booking_id": "104book34813",
-    "date": "2026-11-09",
-    "time": "10:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
   },
   {
     "booking_id": "107book102046",
@@ -9953,17 +8787,6 @@
     "location": "Merrylands",
     "remaining_spots": 4,
     "capacity": 4
-  },
-  {
-    "booking_id": "104book34760",
-    "date": "2026-11-09",
-    "time": "11:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "101book59999",
@@ -10120,17 +8943,6 @@
     "capacity": 4
   },
   {
-    "booking_id": "104book45588",
-    "date": "2026-11-09",
-    "time": "12:00 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book59759",
     "date": "2026-11-09",
     "time": "12:00 PM",
@@ -10217,17 +9029,6 @@
     "location": "Haymarket",
     "remaining_spots": 38,
     "capacity": 38
-  },
-  {
-    "booking_id": "104book33762",
-    "date": "2026-11-09",
-    "time": "12:15 PM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 28
   },
   {
     "booking_id": "107book59707",
@@ -10360,17 +9161,6 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
-  },
-  {
-    "booking_id": "104book45751",
-    "date": "2026-11-09",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "107book59390",
@@ -10582,17 +9372,6 @@
     "capacity": 36
   },
   {
-    "booking_id": "104book34186",
-    "date": "2026-11-09",
-    "time": "4:00 PM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Robynne Henry",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book49470",
     "date": "2026-11-09",
     "time": "4:15 PM",
@@ -10736,17 +9515,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "104book34134",
-    "date": "2026-11-09",
-    "time": "5:00 PM",
-    "name": "Reformer: Jump Board (Lower Body)",
-    "class_type": "Reformer Series",
-    "instructor": "Robynne Henry",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "108book332",
     "date": "2026-11-09",
     "time": "5:00 PM",
@@ -10789,17 +9557,6 @@
     "location": "Merrylands",
     "remaining_spots": 21,
     "capacity": 21
-  },
-  {
-    "booking_id": "104book33815",
-    "date": "2026-11-09",
-    "time": "5:15 PM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 28
   },
   {
     "booking_id": "107book58759",
@@ -11055,17 +9812,6 @@
     "capacity": 21
   },
   {
-    "booking_id": "104book34082",
-    "date": "2026-11-09",
-    "time": "6:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Robynne Henry",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book117521",
     "date": "2026-11-09",
     "time": "6:00 PM",
@@ -11141,17 +9887,6 @@
     "location": "Merrylands",
     "remaining_spots": 31,
     "capacity": 31
-  },
-  {
-    "booking_id": "104book33603",
-    "date": "2026-11-09",
-    "time": "6:15 PM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 28
   },
   {
     "booking_id": "107book58811",
@@ -11251,17 +9986,6 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
-  },
-  {
-    "booking_id": "104book34342",
-    "date": "2026-11-09",
-    "time": "6:30 PM",
-    "name": "Yoga: Empower",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Franks",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
   },
   {
     "booking_id": "107book102666",
@@ -11407,17 +10131,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "104book34238",
-    "date": "2026-11-09",
-    "time": "7:00 PM",
-    "name": "Reformer: Origins",
-    "class_type": "Reformer Series",
-    "instructor": "Robynne Henry",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "108book21437",
     "date": "2026-11-09",
     "time": "7:00 PM",
@@ -11471,17 +10184,6 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
-  },
-  {
-    "booking_id": "104book33445",
-    "date": "2026-11-09",
-    "time": "7:15 PM",
-    "name": "Gunshow",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 28
   },
   {
     "booking_id": "107book58915",
@@ -11581,17 +10283,6 @@
     "location": "Merrylands",
     "remaining_spots": 21,
     "capacity": 21
-  },
-  {
-    "booking_id": "104book34289",
-    "date": "2026-11-09",
-    "time": "7:30 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Franks",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
   },
   {
     "booking_id": "107book102771",
@@ -11770,28 +10461,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "104book35399",
-    "date": "2026-11-10",
-    "time": "6:00 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Lopez",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
-    "booking_id": "104book35025",
-    "date": "2026-11-10",
-    "time": "6:00 AM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Jack Bowen",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 28
-  },
-  {
     "booking_id": "107book73673",
     "date": "2026-11-10",
     "time": "6:00 AM",
@@ -11968,17 +10637,6 @@
     "capacity": 22
   },
   {
-    "booking_id": "104book35346",
-    "date": "2026-11-10",
-    "time": "6:30 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Sunil Tailor",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
     "booking_id": "107book103061",
     "date": "2026-11-10",
     "time": "6:30 AM",
@@ -12142,28 +10800,6 @@
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
-  },
-  {
-    "booking_id": "104book35785",
-    "date": "2026-11-10",
-    "time": "7:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Lopez",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
-    "booking_id": "104book35502",
-    "date": "2026-11-10",
-    "time": "7:00 AM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Jack Bowen",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 28
   },
   {
     "booking_id": "107book73521",
@@ -12331,17 +10967,6 @@
     "capacity": 36
   },
   {
-    "booking_id": "104book35452",
-    "date": "2026-11-10",
-    "time": "7:30 AM",
-    "name": "Yoga: Origins",
-    "class_type": "Yoga Series",
-    "instructor": "Sunil Tailor",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
     "booking_id": "107book103166",
     "date": "2026-11-10",
     "time": "7:30 AM",
@@ -12461,17 +11086,6 @@
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
-  },
-  {
-    "booking_id": "104book36050",
-    "date": "2026-11-10",
-    "time": "8:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Lopez",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "107book49337",
@@ -12683,28 +11297,6 @@
     "capacity": 21
   },
   {
-    "booking_id": "104book44790",
-    "date": "2026-11-10",
-    "time": "9:00 AM",
-    "name": "Barre Signature",
-    "class_type": "Barre Series",
-    "instructor": "Michael Roache",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
-    "booking_id": "104book35944",
-    "date": "2026-11-10",
-    "time": "9:00 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Lopez",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "106book39216",
     "date": "2026-11-10",
     "time": "9:15 AM",
@@ -12870,28 +11462,6 @@
     "capacity": 4
   },
   {
-    "booking_id": "104book36103",
-    "date": "2026-11-10",
-    "time": "10:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jessica Caetano",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
-    "booking_id": "104book35187",
-    "date": "2026-11-10",
-    "time": "10:00 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Michael Roache",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
     "booking_id": "101book101943",
     "date": "2026-11-10",
     "time": "10:15 AM",
@@ -12989,17 +11559,6 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
-  },
-  {
-    "booking_id": "104book35732",
-    "date": "2026-11-10",
-    "time": "11:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jessica Caetano",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "101book63925",
@@ -13189,17 +11748,6 @@
     "capacity": 4
   },
   {
-    "booking_id": "104book34973",
-    "date": "2026-11-10",
-    "time": "12:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jessica Caetano",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book62172",
     "date": "2026-11-10",
     "time": "12:00 PM",
@@ -13365,17 +11913,6 @@
     "capacity": 15
   },
   {
-    "booking_id": "104book35078",
-    "date": "2026-11-10",
-    "time": "12:30 PM",
-    "name": "Badass",
-    "class_type": "S&C Series",
-    "instructor": "Jack Bowen",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 28
-  },
-  {
     "booking_id": "107book102876",
     "date": "2026-11-10",
     "time": "12:30 PM",
@@ -13407,17 +11944,6 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
-  },
-  {
-    "booking_id": "104book61786",
-    "date": "2026-11-10",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jessica Caetano",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "107book62228",
@@ -13673,17 +12199,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "104book35626",
-    "date": "2026-11-10",
-    "time": "4:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book60825",
     "date": "2026-11-10",
     "time": "4:00 PM",
@@ -13838,28 +12353,6 @@
     "capacity": 31
   },
   {
-    "booking_id": "104book50659",
-    "date": "2026-11-10",
-    "time": "5:00 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
-    "booking_id": "104book33975",
-    "date": "2026-11-10",
-    "time": "5:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
     "booking_id": "107book62278",
     "date": "2026-11-10",
     "time": "5:00 PM",
@@ -13946,17 +12439,6 @@
     "location": "Merrylands",
     "remaining_spots": 21,
     "capacity": 21
-  },
-  {
-    "booking_id": "104book35555",
-    "date": "2026-11-10",
-    "time": "5:15 PM",
-    "name": "Badass",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 28
   },
   {
     "booking_id": "107book47381",
@@ -14179,28 +12661,6 @@
     "capacity": 21
   },
   {
-    "booking_id": "104book50764",
-    "date": "2026-11-10",
-    "time": "6:00 PM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
-    "booking_id": "104book35240",
-    "date": "2026-11-10",
-    "time": "6:00 PM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
     "booking_id": "107book50361",
     "date": "2026-11-10",
     "time": "6:00 PM",
@@ -14265,17 +12725,6 @@
     "location": "Merrylands",
     "remaining_spots": 34,
     "capacity": 34
-  },
-  {
-    "booking_id": "104book35131",
-    "date": "2026-11-10",
-    "time": "6:15 PM",
-    "name": "Badass",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 28
   },
   {
     "booking_id": "107book47403",
@@ -14454,17 +12903,6 @@
     "capacity": 33
   },
   {
-    "booking_id": "104book36213",
-    "date": "2026-11-10",
-    "time": "7:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book49390",
     "date": "2026-11-10",
     "time": "7:00 PM",
@@ -14507,17 +12945,6 @@
     "location": "Merrylands",
     "remaining_spots": 34,
     "capacity": 34
-  },
-  {
-    "booking_id": "104book53278",
-    "date": "2026-11-10",
-    "time": "7:15 PM",
-    "name": "Gunshow",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 28
   },
   {
     "booking_id": "107book47167",
@@ -14795,28 +13222,6 @@
     "capacity": 33
   },
   {
-    "booking_id": "104book37853",
-    "date": "2026-11-11",
-    "time": "6:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
-    "booking_id": "104book36931",
-    "date": "2026-11-11",
-    "time": "6:00 AM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 28
-  },
-  {
     "booking_id": "107book51447",
     "date": "2026-11-11",
     "time": "6:00 AM",
@@ -14958,17 +13363,6 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
-  },
-  {
-    "booking_id": "104book36460",
-    "date": "2026-11-11",
-    "time": "6:30 AM",
-    "name": "BodySculpt",
-    "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
   },
   {
     "booking_id": "107book109332",
@@ -15158,28 +13552,6 @@
     "capacity": 34
   },
   {
-    "booking_id": "104book36771",
-    "date": "2026-11-11",
-    "time": "7:00 AM",
-    "name": "Badass",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 28
-  },
-  {
-    "booking_id": "104book37697",
-    "date": "2026-11-11",
-    "time": "7:00 AM",
-    "name": "Reformer: Origins",
-    "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book49471",
     "date": "2026-11-11",
     "time": "7:00 AM",
@@ -15310,17 +13682,6 @@
     "location": "Merrylands",
     "remaining_spots": 21,
     "capacity": 21
-  },
-  {
-    "booking_id": "104book36408",
-    "date": "2026-11-11",
-    "time": "7:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Kristen Marconi",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
   },
   {
     "booking_id": "107book104311",
@@ -15464,28 +13825,6 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
-  },
-  {
-    "booking_id": "104book36509",
-    "date": "2026-11-11",
-    "time": "8:00 AM",
-    "name": "Gunshow",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 28
-  },
-  {
-    "booking_id": "104book51008",
-    "date": "2026-11-11",
-    "time": "8:00 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "108book123",
@@ -15697,17 +14036,6 @@
     "capacity": 8
   },
   {
-    "booking_id": "104book37541",
-    "date": "2026-11-11",
-    "time": "9:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Janet Lapprathana",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "101book103100",
     "date": "2026-11-11",
     "time": "9:00 AM",
@@ -15873,17 +14201,6 @@
     "capacity": 4
   },
   {
-    "booking_id": "104book37489",
-    "date": "2026-11-11",
-    "time": "10:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Egan",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book28856",
     "date": "2026-11-11",
     "time": "10:15 AM",
@@ -16014,17 +14331,6 @@
     "location": "Merrylands",
     "remaining_spots": 4,
     "capacity": 4
-  },
-  {
-    "booking_id": "104book37905",
-    "date": "2026-11-11",
-    "time": "11:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Egan",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "108book124",
@@ -16179,17 +14485,6 @@
     "location": "Merrylands",
     "remaining_spots": 30,
     "capacity": 30
-  },
-  {
-    "booking_id": "104book37801",
-    "date": "2026-11-11",
-    "time": "12:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Egan",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "107book49690",
@@ -16357,17 +14652,6 @@
     "capacity": 15
   },
   {
-    "booking_id": "104book36824",
-    "date": "2026-11-11",
-    "time": "12:30 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Newtown",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
     "booking_id": "107book103791",
     "date": "2026-11-11",
     "time": "12:30 PM",
@@ -16399,17 +14683,6 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
-  },
-  {
-    "booking_id": "104book37593",
-    "date": "2026-11-11",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Egan",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "101book103468",
@@ -16654,17 +14927,6 @@
     "capacity": 36
   },
   {
-    "booking_id": "104book38217",
-    "date": "2026-11-11",
-    "time": "4:00 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Robynne Henry",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book63908",
     "date": "2026-11-11",
     "time": "4:00 PM",
@@ -16795,28 +15057,6 @@
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
-  },
-  {
-    "booking_id": "104book36156",
-    "date": "2026-11-11",
-    "time": "5:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Lily Cole",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
-    "booking_id": "104book38113",
-    "date": "2026-11-11",
-    "time": "5:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Robynne Henry",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "107book49122",
@@ -16995,17 +15235,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "104book36562",
-    "date": "2026-11-11",
-    "time": "5:30 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
     "booking_id": "107book42374",
     "date": "2026-11-11",
     "time": "5:30 PM",
@@ -17136,28 +15365,6 @@
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
-  },
-  {
-    "booking_id": "104book36618",
-    "date": "2026-11-11",
-    "time": "6:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Lily Cole",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
-    "booking_id": "104book38165",
-    "date": "2026-11-11",
-    "time": "6:00 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Robynne Henry",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "107book83463",
@@ -17336,17 +15543,6 @@
     "capacity": 30
   },
   {
-    "booking_id": "104book36877",
-    "date": "2026-11-11",
-    "time": "6:30 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
     "booking_id": "107book42472",
     "date": "2026-11-11",
     "time": "6:30 PM",
@@ -17477,28 +15673,6 @@
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
-  },
-  {
-    "booking_id": "104book38061",
-    "date": "2026-11-11",
-    "time": "7:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Robynne Henry",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
-    "booking_id": "104book37645",
-    "date": "2026-11-11",
-    "time": "7:00 PM",
-    "name": "Breathwork: Deep Calm (Evening)",
-    "class_type": "Harmony Series",
-    "instructor": "Daniel Augustine",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "108book126",
@@ -17798,28 +15972,6 @@
     "capacity": 22
   },
   {
-    "booking_id": "104book51113",
-    "date": "2026-11-12",
-    "time": "6:00 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
-    "booking_id": "104book38637",
-    "date": "2026-11-12",
-    "time": "6:00 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jack Bowen",
-    "location": "Newtown",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
     "booking_id": "107book117102",
     "date": "2026-11-12",
     "time": "6:00 AM",
@@ -17996,17 +16148,6 @@
     "capacity": 22
   },
   {
-    "booking_id": "104book39637",
-    "date": "2026-11-12",
-    "time": "6:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Leah Ferguson",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
     "booking_id": "107book42570",
     "date": "2026-11-12",
     "time": "6:30 AM",
@@ -18159,28 +16300,6 @@
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
-  },
-  {
-    "booking_id": "104book50869",
-    "date": "2026-11-12",
-    "time": "7:00 AM",
-    "name": "Reformer: Sculpt",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
-    "booking_id": "104book38372",
-    "date": "2026-11-12",
-    "time": "7:00 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jack Bowen",
-    "location": "Newtown",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "107book64889",
@@ -18359,17 +16478,6 @@
     "capacity": 22
   },
   {
-    "booking_id": "104book38693",
-    "date": "2026-11-12",
-    "time": "7:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Leah Ferguson",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
     "booking_id": "107book105411",
     "date": "2026-11-12",
     "time": "7:30 AM",
@@ -18489,17 +16597,6 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
-  },
-  {
-    "booking_id": "104book39481",
-    "date": "2026-11-12",
-    "time": "8:00 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "107book75277",
@@ -18689,17 +16786,6 @@
     "capacity": 8
   },
   {
-    "booking_id": "104book39065",
-    "date": "2026-11-12",
-    "time": "9:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Bethany Rumore",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book57018",
     "date": "2026-11-12",
     "time": "9:15 AM",
@@ -18753,17 +16839,6 @@
     "location": "Marrickville",
     "remaining_spots": 26,
     "capacity": 26
-  },
-  {
-    "booking_id": "104book38482",
-    "date": "2026-11-12",
-    "time": "9:30 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Tess Williams",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
   },
   {
     "booking_id": "101book68686",
@@ -18876,17 +16951,6 @@
     "capacity": 4
   },
   {
-    "booking_id": "104book39325",
-    "date": "2026-11-12",
-    "time": "10:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book75039",
     "date": "2026-11-12",
     "time": "10:15 AM",
@@ -18918,17 +16982,6 @@
     "location": "Surry Hills",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "104book38534",
-    "date": "2026-11-12",
-    "time": "10:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Tess Williams",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
   },
   {
     "booking_id": "107book105516",
@@ -19006,17 +17059,6 @@
     "location": "Merrylands",
     "remaining_spots": 8,
     "capacity": 8
-  },
-  {
-    "booking_id": "104book39117",
-    "date": "2026-11-12",
-    "time": "11:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "107book64149",
@@ -19206,17 +17248,6 @@
     "capacity": 33
   },
   {
-    "booking_id": "104book39273",
-    "date": "2026-11-12",
-    "time": "12:00 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book64571",
     "date": "2026-11-12",
     "time": "12:00 PM",
@@ -19360,17 +17391,6 @@
     "capacity": 15
   },
   {
-    "booking_id": "104book38742",
-    "date": "2026-11-12",
-    "time": "12:30 PM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jack Bowen",
-    "location": "Newtown",
-    "remaining_spots": 32,
-    "capacity": 32
-  },
-  {
     "booking_id": "107book106056",
     "date": "2026-11-12",
     "time": "12:30 PM",
@@ -19402,17 +17422,6 @@
     "location": "Merrylands",
     "remaining_spots": 22,
     "capacity": 22
-  },
-  {
-    "booking_id": "104book39013",
-    "date": "2026-11-12",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "108book25784",
@@ -19525,17 +17534,6 @@
     "capacity": 22
   },
   {
-    "booking_id": "104book39377",
-    "date": "2026-11-12",
-    "time": "2:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "101book68899",
     "date": "2026-11-12",
     "time": "2:15 PM",
@@ -19567,17 +17565,6 @@
     "location": "Marrickville",
     "remaining_spots": 15,
     "capacity": 15
-  },
-  {
-    "booking_id": "104book39169",
-    "date": "2026-11-12",
-    "time": "3:00 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "103book56754",
@@ -19624,17 +17611,6 @@
     "capacity": 32
   },
   {
-    "booking_id": "104book39221",
-    "date": "2026-11-12",
-    "time": "4:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Jaclyn Bogdanovic",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "105book41983",
     "date": "2026-11-12",
     "time": "4:10 PM",
@@ -19644,17 +17620,6 @@
     "location": "Haymarket",
     "remaining_spots": 38,
     "capacity": 38
-  },
-  {
-    "booking_id": "104book64574",
-    "date": "2026-11-12",
-    "time": "4:15 PM",
-    "name": "Barre Signature",
-    "class_type": "Barre Series",
-    "instructor": "Anton Anton",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
   },
   {
     "booking_id": "101book68033",
@@ -19767,17 +17732,6 @@
     "capacity": 33
   },
   {
-    "booking_id": "104book39429",
-    "date": "2026-11-12",
-    "time": "5:00 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book64677",
     "date": "2026-11-12",
     "time": "5:00 PM",
@@ -19831,17 +17785,6 @@
     "location": "Merrylands",
     "remaining_spots": 21,
     "capacity": 21
-  },
-  {
-    "booking_id": "104book64866",
-    "date": "2026-11-12",
-    "time": "5:15 PM",
-    "name": "Ritual",
-    "class_type": "Mat Series",
-    "instructor": "Anton Anton",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "107book65736",
@@ -19930,17 +17873,6 @@
     "location": "Merrylands",
     "remaining_spots": 30,
     "capacity": 30
-  },
-  {
-    "booking_id": "104book58250",
-    "date": "2026-11-12",
-    "time": "5:30 PM",
-    "name": "Calisthenics",
-    "class_type": "S&C Series",
-    "instructor": "Nathan Newman",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 28
   },
   {
     "booking_id": "107book114683",
@@ -20097,17 +18029,6 @@
     "capacity": 21
   },
   {
-    "booking_id": "104book38909",
-    "date": "2026-11-12",
-    "time": "6:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book64201",
     "date": "2026-11-12",
     "time": "6:00 PM",
@@ -20150,17 +18071,6 @@
     "location": "Haymarket",
     "remaining_spots": 35,
     "capacity": 35
-  },
-  {
-    "booking_id": "104book55162",
-    "date": "2026-11-12",
-    "time": "6:15 PM",
-    "name": "YogaBeats",
-    "class_type": "Yoga Series",
-    "instructor": "Alicia Quinn",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
   },
   {
     "booking_id": "107book65579",
@@ -20260,17 +18170,6 @@
     "location": "Merrylands",
     "remaining_spots": 30,
     "capacity": 30
-  },
-  {
-    "booking_id": "104book30811",
-    "date": "2026-11-12",
-    "time": "6:30 PM",
-    "name": "Calisthenics",
-    "class_type": "S&C Series",
-    "instructor": "Nathan Newman",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 28
   },
   {
     "booking_id": "107book114568",
@@ -20416,17 +18315,6 @@
     "capacity": 33
   },
   {
-    "booking_id": "104book38961",
-    "date": "2026-11-12",
-    "time": "7:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Simon Corfield",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "107book63537",
     "date": "2026-11-12",
     "time": "7:00 PM",
@@ -20458,17 +18346,6 @@
     "location": "Merrylands",
     "remaining_spots": 23,
     "capacity": 23
-  },
-  {
-    "booking_id": "104book55062",
-    "date": "2026-11-12",
-    "time": "7:15 PM",
-    "name": "Burlesque",
-    "class_type": "Dance Series",
-    "instructor": "Alicia Quinn",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "107book66054",
@@ -20557,17 +18434,6 @@
     "location": "Merrylands",
     "remaining_spots": 20,
     "capacity": 20
-  },
-  {
-    "booking_id": "104book38583",
-    "date": "2026-11-12",
-    "time": "7:30 PM",
-    "name": "Mobility",
-    "class_type": "Mat Series",
-    "instructor": "Nathan Newman",
-    "location": "Newtown",
-    "remaining_spots": 24,
-    "capacity": 24
   },
   {
     "booking_id": "107book106536",
@@ -20724,28 +18590,6 @@
     "capacity": 22
   },
   {
-    "booking_id": "104book60250",
-    "date": "2026-11-13",
-    "time": "6:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Melissa Passe-De Silva",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
-    "booking_id": "104book40052",
-    "date": "2026-11-13",
-    "time": "6:00 AM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 28
-  },
-  {
     "booking_id": "107book53095",
     "date": "2026-11-13",
     "time": "6:00 AM",
@@ -20889,17 +18733,6 @@
     "capacity": 20
   },
   {
-    "booking_id": "104book39793",
-    "date": "2026-11-13",
-    "time": "6:30 AM",
-    "name": "BodyBurn",
-    "class_type": "Mat Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
     "booking_id": "107book106266",
     "date": "2026-11-13",
     "time": "6:30 AM",
@@ -21041,28 +18874,6 @@
     "location": "Merrylands",
     "remaining_spots": 34,
     "capacity": 34
-  },
-  {
-    "booking_id": "104book51759",
-    "date": "2026-11-13",
-    "time": "7:00 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Melissa Passe-De Silva",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
-    "booking_id": "104book40315",
-    "date": "2026-11-13",
-    "time": "7:00 AM",
-    "name": "Athletica",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Newtown",
-    "remaining_spots": 32,
-    "capacity": 32
   },
   {
     "booking_id": "107book114951",
@@ -21219,17 +19030,6 @@
     "capacity": 22
   },
   {
-    "booking_id": "104book39897",
-    "date": "2026-11-13",
-    "time": "7:30 AM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eleni Vlahos",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
     "booking_id": "107book109954",
     "date": "2026-11-13",
     "time": "7:30 AM",
@@ -21371,28 +19171,6 @@
     "location": "Merrylands",
     "remaining_spots": 34,
     "capacity": 34
-  },
-  {
-    "booking_id": "104book39946",
-    "date": "2026-11-13",
-    "time": "8:00 AM",
-    "name": "Badass",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 28
-  },
-  {
-    "booking_id": "104book60344",
-    "date": "2026-11-13",
-    "time": "8:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Melissa Passe-De Silva",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "107book115042",
@@ -21626,17 +19404,6 @@
     "capacity": 4
   },
   {
-    "booking_id": "104book40475",
-    "date": "2026-11-13",
-    "time": "9:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Egan",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "101book97582",
     "date": "2026-11-13",
     "time": "9:15 AM",
@@ -21835,17 +19602,6 @@
     "capacity": 33
   },
   {
-    "booking_id": "104book40943",
-    "date": "2026-11-13",
-    "time": "10:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Egan",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "101book98057",
     "date": "2026-11-13",
     "time": "10:15 AM",
@@ -21945,17 +19701,6 @@
     "capacity": 8
   },
   {
-    "booking_id": "104book40839",
-    "date": "2026-11-13",
-    "time": "11:00 AM",
-    "name": "Reformer: Athletic",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Egan",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "101book70778",
     "date": "2026-11-13",
     "time": "11:00 AM",
@@ -22044,17 +19789,6 @@
     "capacity": 15
   },
   {
-    "booking_id": "104book39845",
-    "date": "2026-11-13",
-    "time": "11:30 AM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Franks",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
     "booking_id": "107book107181",
     "date": "2026-11-13",
     "time": "11:30 AM",
@@ -22130,17 +19864,6 @@
     "location": "Merrylands",
     "remaining_spots": 4,
     "capacity": 4
-  },
-  {
-    "booking_id": "104book40371",
-    "date": "2026-11-13",
-    "time": "12:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Egan",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "107book52937",
@@ -22319,28 +20042,6 @@
     "capacity": 15
   },
   {
-    "booking_id": "104book53071",
-    "date": "2026-11-13",
-    "time": "12:30 PM",
-    "name": "Yoga: Flowstate",
-    "class_type": "Yoga Series",
-    "instructor": "Jessy Franks",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
-    "booking_id": "104book40210",
-    "date": "2026-11-13",
-    "time": "12:30 PM",
-    "name": "Strong",
-    "class_type": "S&C Series",
-    "instructor": "Enif Alvarez",
-    "location": "Newtown",
-    "remaining_spots": 28,
-    "capacity": 28
-  },
-  {
     "booking_id": "107book107286",
     "date": "2026-11-13",
     "time": "12:30 PM",
@@ -22372,17 +20073,6 @@
     "location": "Zetland",
     "remaining_spots": 15,
     "capacity": 15
-  },
-  {
-    "booking_id": "104book40891",
-    "date": "2026-11-13",
-    "time": "1:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sienna Egan",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "108book345",
@@ -22550,17 +20240,6 @@
     "capacity": 24
   },
   {
-    "booking_id": "104book40579",
-    "date": "2026-11-13",
-    "time": "3:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Aly Turska",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
-  },
-  {
     "booking_id": "103book59656",
     "date": "2026-11-13",
     "time": "3:30 PM",
@@ -22614,28 +20293,6 @@
     "location": "Marrickville",
     "remaining_spots": 36,
     "capacity": 36
-  },
-  {
-    "booking_id": "104book39741",
-    "date": "2026-11-13",
-    "time": "4:00 PM",
-    "name": "Power Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
-    "booking_id": "104book40735",
-    "date": "2026-11-13",
-    "time": "4:00 PM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Aly Turska",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "108book138",
@@ -22757,28 +20414,6 @@
     "location": "Merrylands",
     "remaining_spots": 33,
     "capacity": 33
-  },
-  {
-    "booking_id": "104book40161",
-    "date": "2026-11-13",
-    "time": "5:00 PM",
-    "name": "Mat Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Eva Baonza",
-    "location": "Newtown",
-    "remaining_spots": 23,
-    "capacity": 23
-  },
-  {
-    "booking_id": "104book40631",
-    "date": "2026-11-13",
-    "time": "5:00 PM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Aly Turska",
-    "location": "Newtown",
-    "remaining_spots": 20,
-    "capacity": 20
   },
   {
     "booking_id": "108book139",
