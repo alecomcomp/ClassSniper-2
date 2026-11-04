@@ -1470,7 +1470,7 @@
     "class_type": "Spin Series",
     "instructor": "Elizabeth Chun",
     "location": "Haymarket",
-    "remaining_spots": 20,
+    "remaining_spots": 19,
     "capacity": 35
   },
   {
@@ -1558,7 +1558,7 @@
     "class_type": "Reformer Series",
     "instructor": "Eleni Vlahos",
     "location": "Merrylands",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 22
   },
   {
@@ -20500,7 +20500,7 @@
     "class_type": "Events",
     "instructor": "Marie de Bella",
     "location": "Zetland",
-    "remaining_spots": 26,
+    "remaining_spots": 25,
     "capacity": 34
   }
 ]
