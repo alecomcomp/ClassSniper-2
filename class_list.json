@@ -788,7 +788,7 @@
     "class_type": "Spin Series",
     "instructor": "Hayley van Stom",
     "location": "North Sydney",
-    "remaining_spots": 34,
+    "remaining_spots": 33,
     "capacity": 40
   },
   {
@@ -1855,7 +1855,7 @@
     "class_type": "S&C Series",
     "instructor": "Aaron Fiveash",
     "location": "Zetland",
-    "remaining_spots": 4,
+    "remaining_spots": 3,
     "capacity": 25
   },
   {
@@ -4209,7 +4209,7 @@
     "class_type": "Reformer Series",
     "instructor": "Hanna Sadek",
     "location": "Merrylands",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 22
   },
   {
@@ -4913,7 +4913,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Newtown",
-    "remaining_spots": 19,
+    "remaining_spots": 18,
     "capacity": 20
   },
   {
