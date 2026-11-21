@@ -1,10 +1,17 @@
 {
   "result": "ok",
   "detail": null,
-  "scraped_at": "2026-11-22T08:31:33.768741+11:00",
-  "class_count": 2289,
+  "scraped_at": "2026-11-22T08:32:34.492569+11:00",
+  "class_count": 1377,
   "centers_total": 10,
-  "centers_failed": [],
+  "centers_failed": [
+    "Rockdale",
+    "Newtown",
+    "Bunker",
+    "Marrickville",
+    "Haymarket",
+    "Chatswood"
+  ],
   "contract_breaks": {},
   "unmapped_locations": []
 }
