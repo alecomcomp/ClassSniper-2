@@ -667,7 +667,7 @@
     "class_type": "S&C Series",
     "instructor": "Jack Bowen",
     "location": "Newtown",
-    "remaining_spots": 0,
+    "remaining_spots": 1,
     "capacity": 28
   },
   {
@@ -1184,7 +1184,7 @@
     "class_type": "Reformer Series",
     "instructor": "Bethany Rumore",
     "location": "Haymarket",
-    "remaining_spots": 6,
+    "remaining_spots": 5,
     "capacity": 24
   },
   {
@@ -1932,7 +1932,7 @@
     "class_type": "S&C Series",
     "instructor": "Alek Leyland",
     "location": "Marrickville",
-    "remaining_spots": 16,
+    "remaining_spots": 15,
     "capacity": 26
   },
   {
@@ -3373,7 +3373,7 @@
     "class_type": "Mat Series",
     "instructor": "Ariel Comeau",
     "location": "Surry Hills",
-    "remaining_spots": 10,
+    "remaining_spots": 8,
     "capacity": 25
   },
   {
@@ -3604,7 +3604,7 @@
     "class_type": "Reformer Series",
     "instructor": "Janet Lapprathana",
     "location": "Haymarket",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 24
   },
   {
@@ -4407,7 +4407,7 @@
     "class_type": "Mat Series",
     "instructor": "Simon Corfield",
     "location": "North Sydney",
-    "remaining_spots": 11,
+    "remaining_spots": 10,
     "capacity": 30
   },
   {
@@ -4990,7 +4990,7 @@
     "class_type": "Reformer Series",
     "instructor": "Tamar Hirschberg",
     "location": "Zetland",
-    "remaining_spots": 17,
+    "remaining_spots": 16,
     "capacity": 24
   },
   {
