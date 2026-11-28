@@ -1,16 +1,5 @@
 [
   {
-    "booking_id": "108book8918",
-    "date": "2026-11-30",
-    "time": "11:45 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sinead Chabowski",
-    "location": "Zetland",
-    "remaining_spots": 18,
-    "capacity": 24
-  },
-  {
     "booking_id": "105book37573",
     "date": "2026-11-30",
     "time": "12:00 PM",
@@ -4627,7 +4616,7 @@
     "class_type": "Yoga Series",
     "instructor": "Jessy Patterson",
     "location": "Surry Hills",
-    "remaining_spots": 34,
+    "remaining_spots": 33,
     "capacity": 36
   },
   {
