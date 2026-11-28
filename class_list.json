@@ -1,38 +1,5 @@
 [
   {
-    "booking_id": "101book100702",
-    "date": "2026-11-30",
-    "time": "11:15 AM",
-    "name": "Reformer: Strong",
-    "class_type": "Reformer Series",
-    "instructor": "Carlos Gallo",
-    "location": "Surry Hills",
-    "remaining_spots": 15,
-    "capacity": 18
-  },
-  {
-    "booking_id": "101book58771",
-    "date": "2026-11-30",
-    "time": "11:15 AM",
-    "name": "Badass",
-    "class_type": "S&C Series",
-    "instructor": "Jose Da Rocha",
-    "location": "Surry Hills",
-    "remaining_spots": 16,
-    "capacity": 26
-  },
-  {
-    "booking_id": "101book104176",
-    "date": "2026-11-30",
-    "time": "11:15 AM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Joey Curcio",
-    "location": "Surry Hills",
-    "remaining_spots": 11,
-    "capacity": 36
-  },
-  {
     "booking_id": "105book74590",
     "date": "2026-11-30",
     "time": "11:30 AM",
